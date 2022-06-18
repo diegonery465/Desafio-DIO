@@ -11,9 +11,9 @@ em uma interface e recursos de alinhamento
 🌐 [Clique aqui para visualização e testes](https://web-page-responsivo.netlify.app/) <br>
 
 <img src="https://github.com/diegonery465/Desafio-DIO/blob/main/FlexCSSProjeto01/imgRead/Print01Desktop.JPG"/>
-<img src="https://github.com/diegonery465/PageResponsivoCSS/blob/main/imgRead/Print02Desktop.JPG"/>
-<img src="https://github.com/diegonery465/PageResponsivoCSS/blob/main/imgRead/Print03Desktop.JPG"/>
+<img src="https://github.com/diegonery465/Desafio-DIO/blob/main/FlexCSSProjeto01/imgRead/Print02Desktop.JPG"/>
+<img src="https://github.com/diegonery465/Desafio-DIO/blob/main/FlexCSSProjeto01/imgRead/Print03Desktop.JPG"/>
 
 🌐 Mobile <br>
 
-<img src="https://github.com/diegonery465/PageResponsivoCSS/blob/main/imgRead/Print01Mobile.JPG"/>
+<img src="https://github.com/diegonery465/Desafio-DIO/blob/main/FlexCSSProjeto01/imgRead/Print01Mobile.JPG"/>

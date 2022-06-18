@@ -11,3 +11,5 @@
 [1 - Clone Instagram](https://github.com/diegonery465/Desafio-DIO/tree/main/FlexCSSInstagram)<br>
 
 [2 - Page Web Responsivo Flexbox CSS](https://github.com/diegonery465/Projetos-HTML-CSS-JS/tree/main/FlexCSSProjeto01)<br>
+
+[3 - Desafio Contador](https://github.com/diegonery465/Projetos-HTML-CSS-JS/tree/main/FlexCSSProjeto01)<br>

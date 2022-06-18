@@ -8,8 +8,8 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://github.com/diegonery465)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-[Clone Instagram](https://github.com/diegonery465/Desafio-DIO/tree/main/FlexCSSInstagram)<br>
+[1 - Clone Instagram](https://github.com/diegonery465/Desafio-DIO/tree/main/FlexCSSInstagram)<br>
 
-[Page Web Responsivo Flexbox CSS](https://github.com/diegonery465/Projetos-HTML-CSS-JS/tree/main/FlexCSSProjeto01)<br>
+[2 - Page Web Responsivo Flexbox CSS](https://github.com/diegonery465/Projetos-HTML-CSS-JS/tree/main/FlexCSSProjeto01)<br>
 
-[Desafio Contador](https://github.com/diegonery465/Projetos-HTML-CSS-JS/tree/main/Desafio-Contador)<br>
+[3 - Desafio Contador](https://github.com/diegonery465/Projetos-HTML-CSS-JS/tree/main/Desafio-Contador)<br>

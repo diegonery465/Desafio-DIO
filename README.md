@@ -1,4 +1,4 @@
-🛠️ Projeto Criados | DIO
+🛠️ Projeto Criados
 
 ```
 👨🏻‍💻 Desafios e Projetos criados com HTML, CSS e JAVA SCRIPT

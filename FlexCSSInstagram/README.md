@@ -5,8 +5,8 @@
 
 🌐 [Clique aqui para visualização e testes](https://clone-instagram-srmadruga.netlify.app/) <br>
 
-<img src="https://github.com/diegonery465/Clone-Instagram-FlexBoxCSS/blob/main/imgReadGit/imagDesk1.JPG"/>
+<img src="https://github.com/diegonery465/Projetos-HTML-CSS-JS/blob/main/FlexCSSInstagram/imgReadGit/imagDesk1.JPG"/>
 
 🌐 Versão Mobile
 
-<img src="https://github.com/diegonery465/Clone-Instagram-FlexBoxCSS/blob/main/imgReadGit/imagDesk2.JPG"/>
+<img src="https://github.com/diegonery465/Projetos-HTML-CSS-JS/blob/main/FlexCSSInstagram/imgReadGit/imagDesk2.JPG"/>

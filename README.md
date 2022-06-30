@@ -14,4 +14,4 @@
 
 [3 - Desafio Contador](https://github.com/diegonery465/Projetos-HTML-CSS-JS/tree/main/Desafio-Contador)<br>
 
-[4 - CARD Animação CSS Transitions](https://github.com/diegonery465/Projetos-HTML-CSS-JS/tree/main/CARD-CSSTransitions)<br>
+[4 - CARD Animação CSS Transitions](https://github.com/diegonery465/Projetos-HTML-CSS-JS/tree/main/CSS-Animation/CARD-CSSTransitions)<br>

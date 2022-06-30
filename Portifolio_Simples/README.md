@@ -16,6 +16,6 @@
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
-🌐 [Clique aqui para visualização e testes](https://cardcsstransitions.netlify.app/) <br>
+🌐 [Clique aqui para visualização e testes](https://portifolioweb.netlify.app/) <br>
 
 <img src = "https://github.com/diegonery465/Projetos-HTML-CSS-JS/blob/main/Portifolio_Simples/assets/img-READ/img01.PNG"> <br>

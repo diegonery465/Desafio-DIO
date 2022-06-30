@@ -9,7 +9,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/diegonery465) 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://github.com/diegonery465)
 
-😏👉 [Clique aqui para visualização e testes](https://cardcsstransitions.netlify.app/) <br>
+😏👉 [clique aqui para visualização e testes](https://cardcsstransitions.netlify.app/) <br>
 
 
 

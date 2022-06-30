@@ -17,10 +17,10 @@
 
 🌐 [Clique aqui para visualização e testes](https://cardcsstransitions.netlify.app/) <br>
 
-<img src = "https://github.com/diegonery465/Projetos-HTML-CSS-JS/blob/main/CARD-CSSTransitions/img-READ/img01.PNG"> <br>
+<img src = "https://github.com/diegonery465/Projetos-HTML-CSS-JS/blob/main/CSS-Animation/CARD-CSSTransitions/img-READ/img01.PNG"> <br>
 
 
 
 🌐 Efeito ao passar o mouse <br>
 
-<img src = "https://github.com/diegonery465/Projetos-HTML-CSS-JS/blob/main/CARD-CSSTransitions/img-READ/img02.PNG"> <br>
+<img src = https://github.com/diegonery465/Projetos-HTML-CSS-JS/blob/main/CSS-Animation/CARD-CSSTransitions/img-READ/img02.PNG> <br>

@@ -1,4 +1,4 @@
-🛠️ Desafios aceito e resolvido!
+🛠️ Desafios concluído!
 
 ```
 👨🏻‍💻 Desafios e Projetos criados com HTML, CSS e JAVA SCRIPT
